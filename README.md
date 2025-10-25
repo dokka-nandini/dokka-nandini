@@ -5,7 +5,7 @@
 
 <h4 align="center"> I’m Nadini <I>  </I>  </h4>
 
-<h4 align="center"> I am an NCC Cadet 👮 </h4>
+
 <h4 align="center"> Data Analyst | Prompt Engineer | Software Developer 🧑‍💻  :face_in_clouds:     </h4>                                                           
 <h4 align="center">         AI Developer | Web Developer🧑‍💻         :face_in_clouds: </h4>
 <h4 align="center">  <b><i>" I'm  not a Great Programmer; I'm a Good Programmer with great Habits" :muscle: </i></b> </h4>
@@ -21,8 +21,7 @@
 
 
 
-# 💫 About Me:
-Who ami ?<br><br> I’m Nandini<br>AI Developer | Web Developer🧑‍💻        <br>I'm  not a Great Programmer; I'm a Good Programmer with great Habits"
+
 
 
 ## 🌐 Socials:
