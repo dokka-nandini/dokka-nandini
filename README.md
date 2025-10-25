@@ -11,7 +11,7 @@
 <h4 align="center">  <b><i>" I'm  not a Great Programmer; I'm a Good Programmer with great Habits" :muscle: </i></b> </h4>
 <br></br>
 
-<h5 align="center"> <a href="https://yashoda-krishna.github.io/">Check out My Website  </a> </h5>
+<h5 align="center"> <a href="https://dokka-nandini.github.io/">Check out My Website  </a> </h5>
 
 ###
 
